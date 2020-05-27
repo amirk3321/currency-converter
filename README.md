@@ -1,16 +1,13 @@
-# fluttercurrencyconverter
+# flutter Currency Converter
 
-A new Flutter application.
 
-## Getting Started
+<p float="left">
+<img src="https://user-images.githubusercontent.com/10207753/83059056-c466aa80-a072-11ea-8ed7-ec7c3834c1bb.png" width="260" height="450" /> 
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/10207753/83059108-d47e8a00-a072-11ea-87d3-ffe0a5188403.png" width="260" height="450" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/10207753/83059146-e19b7900-a072-11ea-855c-436bb3a64780.png" width="260" height="450" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/10207753/83059192-f37d1c00-a072-11ea-99a3-c5506cddef69.png" width="260" height="450" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
